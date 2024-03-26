@@ -190,10 +190,10 @@
     "id": "quote",
     "fields": [
       {
-        "component": "reference",
+        "component": "richtext",
         "valueType": "string",
-        "name": "image",
-        "label": "Image",
+        "name": "quote",
+        "label": "Quote",
         "multi": false
       },
       {
